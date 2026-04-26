@@ -2,6 +2,7 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
+//se usa para indicar que una variable no puede ser modificada después de su inicialización.
 int sumar(const int a, const int b) {
     return a + b;
 }
